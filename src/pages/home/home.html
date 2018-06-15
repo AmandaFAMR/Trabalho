@@ -1,0 +1,19 @@
+<ion-header>
+    <ion-navbar color="danger">
+      <ion-title>Home</ion-title>
+    </ion-navbar>
+  </ion-header>
+  
+  <ion-content >
+    
+    <ion-card-content>
+        <ion-list *ngFor = "let d of dados" (click)="Pagina(d.id)">
+              <ion-thumbnail item-start>
+                <img style="width: 320px; height: 300px;" src="{{d.src}}.jpg">
+              </ion-thumbnail>
+              <h2 style="text-align: center">{{ d.nome }}</h2>
+        </ion-list>    
+    </ion-card-content>
+</ion-content>  
+  
+  

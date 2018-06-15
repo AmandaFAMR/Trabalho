@@ -1,0 +1,105 @@
+{
+  "comentario": [
+    {
+      "id": 1,
+      "nome": "Amanda",
+      "tipo": "critica",
+      "email": "amanda@gmail.com",
+      "comentario": "jhghjflidusfhkdjh"
+    },
+    {
+      "nome": "Amanda",
+      "tipo": "Elogios",
+      "email": "amanda@gmail.com",
+      "comentario": "Isso aê.",
+      "id": 2
+    },
+    {
+      "nome": "Teste",
+      "tipo": "Critica",
+      "email": "teste@gmail.com",
+      "comentario": "Somente teste",
+      "id": 3
+    },
+    {
+      "nome": "amanda",
+      "tipo": "Critica",
+      "email": "amanda@gmail.com",
+      "comentario": "Amanda Maciel",
+      "id": 4
+    },
+    {
+      "nome": "",
+      "tipo": "",
+      "email": "",
+      "comentario": "",
+      "id": 5
+    },
+    {
+      "nome": "",
+      "tipo": "",
+      "email": "",
+      "comentario": "",
+      "id": 6
+    },
+    {
+      "nome": "",
+      "tipo": "",
+      "email": "",
+      "comentario": "",
+      "id": 7
+    }
+  ],
+  "detalhes": [
+    {
+      "id": 1,
+      "src": "../assets/imgs/deadpool",
+      "nome": "Deadpoll",
+      "detalhes": "Quando o super soldado Cable (Josh Brolin) chega em uma missão para assassinar o jovem mutante Russel (Julian Dennison), o mercenário Deadpool (Ryan Reynolds) precisa aprender o que é ser herói de verdade para salvá-lo. Para isso, ele recruta seu velho amigo Colossus e forma o novo grupo X-Force, sempre com o apoio do fiel escudeiro Dopinder (Karan Soni).",
+      "datadelancamento": "17 de maio de 2018 (Brasil)",
+      "direcao": "David Leitch",
+      "musica": "Tyler Bates",
+      "roteiro": "Ryan Reynolds, Paul Wernick, Rhett Reese, Rob Liefeld, Fabian Nicieza"
+    },
+    {
+      "id": 2,
+      "src": "../assets/imgs/osparcas",
+      "nome": "Os Parças",
+      "detalhes": "Chantageados e enganados por um ambicioso trambiqueiro (Oscar Magrini), Toinho (Tom Cavalcante), Ray Van (Whindersson Nunes), Pilôra (Tirullipa) e Romeu (Bruno de Luca) precisam organizar uma festa inesquecível de casamento sem nenhum dinheiro no bolso. Caso falhem, terão que lidar com o maior contrabandista da famosa rua 25 de Março em São Paulo, que é também o pai da noiva (Paloma Bernardi). ",
+      "datadelancamento": "30 de novembro de 2017 (Brasil)",
+      "direcao": "Halder Gomes",
+      "musica": "Rafa e Pipo Marques",
+      "roteiro": "Claudio Torres Gonzaga"
+    },
+    {
+      "id": 3,
+      "src": "../assets/imgs/minions",
+      "nome": "Os Minions",
+      "detalhes": "Seres amarelos milenares, os minions têm uma missão: servir os maiores vilões. Em depressão desde a morte de seu antigo mestre, eles tentam encontrar um novo chefe. Três voluntários, Kevin, Stuart e Bob vão até uma convenção de vilões nos Estados Unidos e lá se encantam com Scarlet Overkill, que ambiciona ser a primeira mulher a dominar o mundo.",
+      "datadelancamento": "25 de junho de 2015 (Brasil)",
+      "direcao": "Pierre Coffin e Kyle Balda",
+      "musica": "Heitor Pereira",
+      "roteiro": "Brian Lynch"
+    },
+    {
+      "id": 4,
+      "src": "../assets/imgs/sense8",
+      "nome": "Sense 8",
+      "detalhes": "Após um evento peculiar, oito pessoas que não se conhecem ficam interligadas mentalmente e precisam lidar com os perigos de suas novas vidas. Um disparo. Uma morte. Um instante no tempo em que oito mentes em seis continentes são interligadas para sempre. Oito pessoas vivem suas vidas, segredos e ameaças como uma. São pessoas comuns, renascidas com um mesmo inimigo e destino.",
+      "datadelancamento": "5 de junho de 2015",
+      "direcao": " Lilly ",
+      "musica": "Knockin' On Heaven's Doo",
+      "roteiro": "Lana Wachowski"
+    },
+    {
+      "id": 5,
+      "src": "../assets/imgs/lacasadepapel",
+      "nome": "Lá Casa de Papel",
+      "detalhes": "Oito habilidosos ladrões se trancam na Casa da Moeda da Espanha com o ambicioso plano de realizar o maior roubo da história e levar com eles mais de 2 bilhões de euros. Para isso, a gangue precisa lidar com as dezenas de pessoas que manteve como refém, além dos agentes da força de elite da polícia, que farão de tudo para que a investida dos criminosos fracasse.",
+      "datadelancamento": "2 de maio de 2017",
+      "direcao": " Álex Pina ",
+      "musica": "Bella Cion",
+      "roteiro": " Álex Pina "
+    }
+  ]
+}

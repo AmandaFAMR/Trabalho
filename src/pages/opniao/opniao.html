@@ -1,0 +1,42 @@
+<ion-header>
+
+  <ion-navbar color="danger">
+    <ion-title>Comentario</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <ion-list>
+
+    <ion-item>
+      <ion-label stacked>Nome</ion-label>
+      <ion-input type="text" [(ngModel)]="evento.nome"></ion-input>
+    </ion-item>
+  
+    <ion-item>
+      <ion-label stacked>Opnião</ion-label>
+        <ion-select [(ngModel)]="evento.tipo">
+          <ion-option value="Critica">Critica</ion-option>
+          <ion-option value="Elogios">Elogios</ion-option>
+      </ion-select>
+    </ion-item>
+
+    <ion-item>
+      <ion-label stacked>E-mail</ion-label>
+      <ion-input type="text" [(ngModel)]="evento.email"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label stacked>Comentario</ion-label>
+      <ion-textarea type="text" [(ngModel)]="evento.comentario"></ion-textarea>
+    
+    </ion-item>
+
+    <ion-item>
+    <button  (click)="Evento(evento)" block ion-button color="danger">Comentar</button>
+    </ion-item>
+   
+  </ion-list>
+</ion-content>
